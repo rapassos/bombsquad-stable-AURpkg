@@ -1,0 +1,7 @@
+pkg
+src
+*.tar.xz
+*.tar.zst
+*.tar.gz
+BombSquadIcon.png
+bombsquad-1.7.36-1-x86_64.pkg.tar
