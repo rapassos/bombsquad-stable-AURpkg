@@ -10,6 +10,7 @@ arch=('x86_64' 'aarch64')
 url='http://www.froemling.net/apps/bombsquad'
 license=('unknown')
 depends=('openal' 'libgl' 'sdl2' 'libvorbis' 'libogg')
+conflicts=('bombsquad')
 source=(
   "https://files.ballistica.net/bombsquad/promo/BombSquadIcon.png"
   'bombsquad.sh'
